@@ -26,4 +26,3 @@ https://medium.com/analytics-vidhya/pandas-dataframe-to-postgresql-using-python-
 
 ### Connect with me
 https://www.linkedin.com/in/muhammad-shahid-87938318/
-
